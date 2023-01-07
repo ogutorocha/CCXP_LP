@@ -1,0 +1,151 @@
+body {
+    margin: 0;
+    font-family: verdana;
+}
+
+#header {
+    background-color: #FFD900;
+    height: 115px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+
+}
+    #logo {
+        height: 50px;
+        margin-left: 26px;
+        
+        
+    }
+
+#mid {
+    text-align: center;
+    margin: 0;
+    display: flex;
+
+}
+
+    #info {
+        background: #514988;
+        height:480px;
+        width: 40%;
+        padding: 10px;
+       
+           
+
+    }
+
+    #countvid{
+        width: 60%;
+        line-height : 0px
+        
+        
+        
+
+    }
+
+            #count {
+                margin-top: 0;
+                
+
+            }
+
+            .timer {
+                
+                margin-top: 0;
+                color: #514988;
+                font-size: 30px;
+                margin-top: 0;
+                display: grid;
+                grid-auto-flow: column;
+            
+            }
+
+    
+
+            #maior {
+                color: #e33881;
+                font-size: 15px;
+                margin: 0px;
+            }
+
+            #video {
+                width: 95%;
+               
+                
+                
+            }
+
+            .countsize {
+                font-size: 30px;
+                display: grid;
+                grid-auto-flow: column;
+            }
+
+
+#bottom {
+    display: flex;
+    margin-left: 60px;
+    
+
+}
+
+#ticket {
+    display: grid;
+    grid-auto-flow: column;
+    width: 60%;
+    margin-top: 10px;
+   
+
+}
+
+#cta {
+    
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#botao {
+    color: white;
+    background-color: #514988;
+    border: 0;
+    width: 400px;
+    height: 100px;
+    font-family: verdana;
+    font-size: 30px;
+    border-radius: 20px;
+    font-weight: 700;
+}
+
+#botao:hover {
+    color: #514988;
+    background-color: yellow;
+    
+}
+
+p {
+    font-size: 20px;
+    color: #ffffff;
+}
+
+#h1 {
+    margin: 0;
+    font-size: 40px;
+    color: #F3C61F;
+    padding-top: 8%;
+}
+
+h3 {
+    color: #F3C61F;
+    text-align: center;
+}
+
+h4 {
+    color: white
+}
+
+#imgdias {
+    width: 150px;
+}
